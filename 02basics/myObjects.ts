@@ -4,7 +4,8 @@
 //     isAvtive: true
 // }
 
-// function createUser({name: string, isPaid: boolean}){}
+// destruct the object passed as parameter and assign datatype to it
+// function createUser({name, isPaid} : {name: string, isPaid: boolean}){}
 
 // let newUser = {name: "hitesh", isPaid: false, email: "h@h.com"}
 
